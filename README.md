@@ -3,7 +3,7 @@
 The dice game Pig is considered a "jeopardy game", where you risk all your points to see if you can win more. 
 The numbers on the die, except for "1", represent points that the player can accumulate.
 
-# GAMEPLAY
+# Gameplay
 
 Each turn, a player repeatedly rolls a die until either a "1" is rolled or the player decides to "hold":
 
