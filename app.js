@@ -60,8 +60,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 	btnNewGame.addEventListener("click", init);
 
-
-
 	function init() {
 		scores = [0, 0];
 		currentScore = 0;
