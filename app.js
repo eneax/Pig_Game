@@ -65,7 +65,6 @@ document.addEventListener("DOMContentLoaded", function() {
 		currentScore = 0;
 		activePlayer = 0;
 		gamePlaying = true;
-
 		dice.style.display = 'none';		
 		totScorePlayerOne.textContent = '0';	
 		totScorePlayerTwo.textContent = '0';		
